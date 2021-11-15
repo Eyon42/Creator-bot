@@ -2,6 +2,6 @@
 
 source "./venv/bin/activate"
 
-python3
+python3 bot.py
 
 deactivate
