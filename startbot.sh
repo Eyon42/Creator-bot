@@ -1,3 +1,3 @@
 #!/usr/bin/bash
 
-./venv/bin/python bot.py
+cd /home/dev/code/CreatorsLab/Creator-bot && ./venv/bin/python bot.py
